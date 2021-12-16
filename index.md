@@ -10,4 +10,4 @@ Please don't. Or you will keep ending up here.
 
 ### Go back to Diana HomeLab
 
-[Diana HomeLab](https://lab.diananas.online/)
+[Diana HomeLab](https://dianahomelab.cf/)
